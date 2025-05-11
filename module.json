@@ -8,6 +8,6 @@
         "niceName": "Anti Body Block",
         "guiName": "ABB"
     },
-    "servers": ["https://raw.githubusercontent.com/OmikamiMiko/AntiBodyBlock/main/"],
-    "supportUrl": "https://github.com/OmikamiMiko/AntiBodyBlock/issues"
+    "servers": ["https://raw.githubusercontent.com/tera-reborn/AntiBodyBlock/main/"],
+    "supportUrl": "https://github.com/tera-reborn/AntiBodyBlock/issues"
 }
